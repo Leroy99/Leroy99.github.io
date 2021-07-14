@@ -3,8 +3,8 @@
 * [首页](README)
 * [操作指南](guide)
 
-* 前端技术
-    * [javascript](01/javascript/)
-    * [echarts](01/echarts/)
-
-* 服务器端技术
+* 项目介绍
+    * [前言](01/introduction/)
+    * [技术栈](01/TechnologyStack/)
+    * [项目运行](01/ProjectRunning/)
+    * [项目开发](01/ProjectDevelopment/)
