@@ -10,5 +10,5 @@
 - 冒险模式数个的关卡设定，场景变化包括从白天到夜晚，从泳池到房顶。
 - 游戏画面与声音，同时还更新有奖励型的音乐与视频。
 
-[MyGitHub](https://github.com/docsifyjs/docsify/)
+[MyGitHub](https://github.com/Leroy99/)
 [起步](README)

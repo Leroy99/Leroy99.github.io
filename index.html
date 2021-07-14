@@ -32,11 +32,14 @@
     window.$docsify = {
       loadSidebar: true,
       subMaxLevel: 2,
+            // 页脚 _footer.md 需要在下面引入js文件
+            loadFooter: true,
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
       }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/zxiaosi/cdn/Docsify/js/docsify-footer.min.js"></script> 
 </body>
 </html>
