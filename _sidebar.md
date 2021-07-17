@@ -5,6 +5,5 @@
 
 * 项目介绍
     * [前言](01/introduction/)
-    * [技术栈](01/TechnologyStack/)
-    * [项目运行](01/ProjectRunning/)
+    * [技术栈&思维导图](01/TechnologyStack/)
     * [项目开发](01/ProjectDevelopment/)
